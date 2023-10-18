@@ -7,7 +7,7 @@ An OCR for Persian characters using 3 different Deep Neural Network models:
 It also capable of capturing input through webcam.
 ### Dataset and trained weights are also included.
 Dataset licensed:
-#### "Hoda Handwritten Farsi Character Data Set"
+#### "Hoda Handwritten Farsi Character Dataset"
 #### Developed By(for citation):
 * zaniar sharifi
 
