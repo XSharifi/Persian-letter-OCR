@@ -8,7 +8,7 @@ It also capable of capturing input through webcam.
 ### Dataset and trained weights are also included.
 Dataset licensed:
 #### "Hoda Handwritten Farsi Character Dataset"
-#### Developed By(for citation):
+#### Developed By (for citation):
 * zaniar sharifi
 
 					
